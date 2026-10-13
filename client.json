@@ -1,0 +1,16 @@
+{
+  "client_id": "https://outekikou.github.io/client.json",
+  "client_name": "OpenClaw SCI Research Assistant",
+  "client_uri": "https://outekikou.github.io/",
+  "redirect_uris": [
+    "http://127.0.0.1:8989/oauth/callback",
+    "http://localhost:8989/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
